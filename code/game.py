@@ -3,15 +3,17 @@
 import sys
 import pygame
 
-from Menu import Menu
+from code.Const import WIN_WIDTH, WIN_HEIGHT
+from code.menu import Menu
 
 
 class Game:
     def __init__(self):
         pygame.init()
-        self.window = pygame.display.set_mode((800, 600))
+        self.window = pygame.display.set_mode((WIN_WIDTH, WIN_HEIGHT))
 
     def run(self, ):
+
 
         print('Setup Start')
         print('Setup End')
