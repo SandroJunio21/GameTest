@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c52a3e93-8b42-4ebe-93f6-a60fb6ad8bb0" name="Changes" comment="changing menu (branch)">
+    <list default="true" id="c52a3e93-8b42-4ebe-93f6-a60fb6ad8bb0" name="Changes" comment="creating menu interactions, ABC class and Factory&#10;Level 1 Bg: parallax">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/background.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/background.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/entityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entityFactory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
@@ -46,6 +44,9 @@
     &quot;accountId&quot;: &quot;339ab46c-a82e-4559-98b2-2eb4ec948741&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -62,6 +63,7 @@
     "Python.Game.executor": "Run",
     "Python.Main.executor": "Run",
     "Python.background.executor": "Run",
+    "Python.entityFactory.executor": "Run",
     "Python.game.executor": "Run",
     "Python.level.executor": "Run",
     "Python.menu.executor": "Run",
@@ -124,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780077836995</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="creating menu interactions, ABC class and Factory&#10;Level 1 Bg: parallax">
+      <option name="closed" value="true" />
+      <created>1780103818749</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780103818749</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +153,7 @@
     <MESSAGE value="creating main loop&#10;connecting Menu and Game classes" />
     <MESSAGE value="CREATING ASSETS FOLDER&#10;INSERTING ALL ASSETS&#10;CREATING THE MENU&#10;CREATING CONST FILE" />
     <MESSAGE value="changing menu (branch)" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing menu (branch)" />
+    <MESSAGE value="creating menu interactions, ABC class and Factory&#10;Level 1 Bg: parallax" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating menu interactions, ABC class and Factory&#10;Level 1 Bg: parallax" />
   </component>
 </project>
