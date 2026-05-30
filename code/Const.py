@@ -14,4 +14,15 @@ MENU_OPTION = ( 'NEW GAME 1P',
                 'SCORE',
                 'EXIT')
 
+#E
+ENTITY_SPEED = {
+    'Level1Bg0': 0,
+    'Level1Bg1': 0,
+    'Level1Bg2': 0,
+    'Level1Bg3': 0,
+    'Level1Bg4': 0,
+    'Level1Bg5': 0,
+    'Level1Bg6': 0,
+}
+
 
