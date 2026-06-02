@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c52a3e93-8b42-4ebe-93f6-a60fb6ad8bb0" name="Changes" comment="Correcting errors">
+    <list default="true" id="c52a3e93-8b42-4ebe-93f6-a60fb6ad8bb0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/code/entityMediator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/enemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/entityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entityFactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,7 @@
     "Python.Main.executor": "Run",
     "Python.background.executor": "Run",
     "Python.entityFactory.executor": "Run",
+    "Python.entityMediator.executor": "Run",
     "Python.game.executor": "Run",
     "Python.level.executor": "Run",
     "Python.menu.executor": "Run",
@@ -146,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780108563550</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="CREATING AND MOVING PLAYER AND ENEMIES">
+      <option name="closed" value="true" />
+      <created>1780176273173</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780176273173</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +175,7 @@
     <MESSAGE value="changing menu (branch)" />
     <MESSAGE value="creating menu interactions, ABC class and Factory&#10;Level 1 Bg: parallax" />
     <MESSAGE value="Correcting errors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correcting errors" />
+    <MESSAGE value="CREATING AND MOVING PLAYER AND ENEMIES" />
+    <option name="LAST_COMMIT_MESSAGE" value="CREATING AND MOVING PLAYER AND ENEMIES" />
   </component>
 </project>
