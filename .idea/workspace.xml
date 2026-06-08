@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c52a3e93-8b42-4ebe-93f6-a60fb6ad8bb0" name="Changes" comment="creating mediator pattern&#10;Enemies destruction">
-      <change afterPath="$PROJECT_DIR$/code/enemyShot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/playerShot.py" afterDir="false" />
+    <list default="true" id="c52a3e93-8b42-4ebe-93f6-a60fb6ad8bb0" name="Changes" comment="creating player shot e enemies shot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/entityMediator.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entityMediator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,26 +57,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Const.executor": "Run",
-    "Python.Game.executor": "Run",
-    "Python.Main.executor": "Run",
-    "Python.background.executor": "Run",
-    "Python.entityFactory.executor": "Run",
-    "Python.entityMediator.executor": "Run",
-    "Python.game.executor": "Run",
-    "Python.level.executor": "Run",
-    "Python.menu.executor": "Run",
-    "Python.player.executor": "Run",
-    "Python.playerShot.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature__level"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Const.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.background.executor&quot;: &quot;Run&quot;,
+    &quot;Python.entityFactory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.entityMediator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.level.executor&quot;: &quot;Run&quot;,
+    &quot;Python.menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.player.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playerShot.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature__level&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sandr\PycharmProjects\GameTest\Assets" />
@@ -166,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780405250541</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="creating player shot e enemies shot">
+      <option name="closed" value="true" />
+      <created>1780409869227</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1780409869227</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +194,7 @@
     <MESSAGE value="Correcting errors" />
     <MESSAGE value="CREATING AND MOVING PLAYER AND ENEMIES" />
     <MESSAGE value="creating mediator pattern&#10;Enemies destruction" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating mediator pattern&#10;Enemies destruction" />
+    <MESSAGE value="creating player shot e enemies shot" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating player shot e enemies shot" />
   </component>
 </project>
